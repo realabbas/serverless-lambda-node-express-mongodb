@@ -1,0 +1,25 @@
+{
+  "name": "sls-express-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "offline": "sls offline start --skipCacheInvalidation"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "mongoose": "^5.7.11",
+    "serverless-http": "^2.3.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^5.12.0"
+  }
+}
