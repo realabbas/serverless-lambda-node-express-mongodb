@@ -15,7 +15,9 @@ Boilerplate for Creating Restful API using Express.js, Node.js, Mongodb and Sett
 
 Installation Steps
 
+In the root directory ru the following command:
 - `npm install`
+It will save all the dependencies and dev-dependencies present in package.json
 
 **Setup the IAM Role and configure the serverless(sls) commandline.**
 
