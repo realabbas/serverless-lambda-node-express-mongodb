@@ -2,6 +2,8 @@
 
 Boilerplate for Creating Restful API using Express.js, Node.js, Mongodb and Setting up on AWS Lambda
 
+![Serverless-AWS-Lambda-Node-Express-MongoDb Search Results](https://mattwelke.com/assets/img/free-tier-sls-mongo-atlas/heading.png)
+
 - Prerequisites
   - `AWS IAM Role`
   - `Mongodb Atlas Cloud`
