@@ -29,3 +29,5 @@ For production switch over to ``` production ``` in secrets.json
 After ``` sls deploy ```. Code will be deployed on AWS Lambda. Head over to AWS Lambda and test it using Postman or Insomnia. After that for scaling test, use ``` loadtest ``` and send 100 GET concurrent requests for 10 simulatenous users and watch the latency that comes around to be ~5 seconds.
 
 Cheers! **AWS Lambda Auto Scaling with increase in requests.**
+
+*Resource: Thanks Hackernoon*
