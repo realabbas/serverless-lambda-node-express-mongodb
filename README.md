@@ -5,6 +5,7 @@ Boilerplate for Creating Restful API using Express.js, Node.js, Mongodb and Sett
 ![Serverless-AWS-Lambda-Node-Express-MongoDb Search Results](https://mattwelke.com/assets/img/free-tier-sls-mongo-atlas/heading.png)
 
 - Prerequisites
+
   - `AWS IAM Role`
   - `Mongodb Atlas Cloud`
   - `Serverless Framework`
@@ -15,9 +16,9 @@ Boilerplate for Creating Restful API using Express.js, Node.js, Mongodb and Sett
   - `Serverless-offline`
   - `loadtest`
 
-Installation Steps
+**Installation Steps**
 
-In the root directory ru the following command:
+In the root directory run the following command:
 - `npm install`
 It will save all the dependencies and dev-dependencies present in package.json
 
