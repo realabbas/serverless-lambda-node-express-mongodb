@@ -2,7 +2,7 @@
 
 Boilerplate for Creating Restful API using Express.js, Node.js, Mongodb and Setting up on AWS Lambda
 
-![Serverless-AWS-Lambda-Node-Express-MongoDb Search Results](https://mattwelke.com/assets/img/free-tier-sls-mongo-atlas/heading.png)
+![Serverless-AWS-Lambda-Node-Express-MongoDb Search Results](https://www.rubix.nl/wp-content/uploads/2018/10/nodelambdalove1.png)
 
 - Prerequisites
 
